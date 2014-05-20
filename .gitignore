@@ -3,3 +3,9 @@ javaws
 *.swp
 **.swp
 *.swo
+exercises/*
+!exercises/*.c
+!exercises/*.h
+!**/*.c
+!**/*.h
+bin/**/*

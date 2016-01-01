@@ -9,3 +9,4 @@ exercises/*
 !**/*.c
 !**/*.h
 bin/**/*
+*.dSYM/
